@@ -362,6 +362,7 @@
   ],
   "restaurantes": [
     {
+      "id": "1",
       "nomeRestaurante": "Habibs",
       "cidade": "Canoas",
       "comida": 5,
