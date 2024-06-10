@@ -259,5 +259,15 @@
       "nome": "Amanhecer parte 2",
       "status": "NAO_INICIADO"
     }
+  ],
+  "restaurantes": [
+    {
+      "nomeRestaurante": "Habibs",
+      "cidade": "Canoas",
+      "comida": 5,
+      "atendimento": 0.5,
+      "ambiente": 2,
+      "precoMedio": "25"
+    }
   ]
 }
