@@ -1,0 +1,263 @@
+{
+  "coisasQueAmoEmVoce": [
+    {
+      "frase": "Amo quando beijo seu nariz e você fecha os olhos bem forte",
+      "visto": false,
+      "id": "1"
+    },
+    {
+      "frase": "Amo sentir sua mão por mim inteiro",
+      "visto": false,
+      "id": "2"
+    },
+    {
+      "frase": "Amo te olhar e te admirar sem parar",
+      "visto": false,
+      "id": "3"
+    },
+    {
+      "frase": "Amo te beijar",
+      "visto": false,
+      "id": "4"
+    },
+    {
+      "frase": "Amo ser beijado por você",
+      "visto": false,
+      "id": "5"
+    },
+    {
+      "frase": "Amo fazer você rir",
+      "visto": false,
+      "id": "6"
+    },
+    {
+      "frase": "Amo estar nos seus braços e sentir que nenhum mal irá me atingir",
+      "visto": false,
+      "id": "7"
+    },
+    {
+      "frase": "Amo assistir série com você",
+      "visto": false,
+      "id": "8"
+    },
+    {
+      "frase": "Amo sentir seu cheiro",
+      "visto": false,
+      "id": "9"
+    },
+    {
+      "frase": "Amo a forma que você me olha",
+      "visto": false,
+      "id": "10"
+    },
+    {
+      "frase": "Amo assistir Mamma Mia com você",
+      "visto": false,
+      "id": "11"
+    },
+    {
+      "frase": "Amo sair com você",
+      "visto": false,
+      "id": "12"
+    },
+    {
+      "frase": "Amo imaginar o nosso futuro",
+      "visto": false,
+      "id": "13"
+    },
+    {
+      "frase": "Amo lembrar das nossas histórias",
+      "visto": false,
+      "id": "14"
+    },
+    {
+      "frase": "Amo todo segundo que passo com você",
+      "visto": false,
+      "id": "15"
+    },
+    {
+      "frase": "Amo viajar com você",
+      "visto": false,
+      "id": "16"
+    },
+    {
+      "frase": "Amo ter os pensamentos mais sem sentido e aleatórios junto com você",
+      "visto": false,
+      "id": "17"
+    },
+    {
+      "frase": "Amo conhecer novos restaurantes com você",
+      "visto": false,
+      "id": "18"
+    },
+    {
+      "frase": "Amo acordar e enxergar seu rosto",
+      "visto": false,
+      "id": "19"
+    },
+    {
+      "frase": "Amo ficar de conchinha com você",
+      "visto": false,
+      "id": "20"
+    },
+    {
+      "frase": "Amo quando você me abraça forte e balança",
+      "visto": false,
+      "id": "21"
+    }
+  ],
+  "fotos": [
+    {
+      "id": "1F_zULONhRAvE5oOurEoKxiZlUGP4KyK5",
+      "link": "https://drive.google.com/file/d/1F_zULONhRAvE5oOurEoKxiZlUGP4KyK5/view?usp=sharing",
+      "descricao": "Dia em que vimos o nascer do sol juntos, foi lindo e gostoso demais estar com você. Eu te Amo."
+    },
+    {
+      "id": "1DPCtjPjAow4yS5webkRSd7YAYiaoEkbl",
+      "link": "https://drive.google.com/file/d/1DPCtjPjAow4yS5webkRSd7YAYiaoEkbl/view?usp=sharing",
+      "descricao": "Nosso primeiro rolê na Cidade Baixa como casal. Eu te Amo."
+    },
+    {
+      "id": "13kYalzf39kVP4Ohr80yFGBs2kezzbWvM",
+      "link": "https://drive.google.com/file/d/13kYalzf39kVP4Ohr80yFGBs2kezzbWvM/view?usp=sharing",
+      "descricao": "Você simplesmente sendo LINDA! Eu te Amo."
+    },
+    {
+      "id": "1OipCef1rYh2nlHzF0t26YMucswdqdzNY",
+      "link": "https://drive.google.com/file/d/1OipCef1rYh2nlHzF0t26YMucswdqdzNY/view?usp=drive_link",
+      "descricao": "Amo essa foto, acho muito fofa e eu estou fazendo uma das coisas que mais amo, beijar você! Eu te Amo."
+    },
+    {
+      "id": "1R0cpEa1RAM68r-n1ChsMALEDtHD-utdd",
+      "link": "https://drive.google.com/file/d/1R0cpEa1RAM68r-n1ChsMALEDtHD-utdd/view?usp=drive_link",
+      "descricao": "Nossa primeira viagem juntos. Eu te Amo."
+    },
+    {
+      "id": "1plsFHsZgS8cjpfZ_1d11DUvVqk_Eox6I",
+      "link": "https://drive.google.com/file/d/1plsFHsZgS8cjpfZ_1d11DUvVqk_Eox6I/view?usp=drive_link",
+      "descricao": "Nosso segundo rolê juntos na Cidade Baixa, você é MUITO LINDA!! Eu te Amo."
+    },
+    {
+      "id": "1zD7BOc0wz78tIFWY52RcNOqHLBF9uTxW",
+      "link": "https://drive.google.com/file/d/1zD7BOc0wz78tIFWY52RcNOqHLBF9uTxW/view?usp=drive_link",
+      "descricao": "Nós sendo simplesmente lindos! Eu te Amo."
+    }
+  ],
+  "filmes": [
+    {
+      "id": "1",
+      "nome": "Como perder um homem em 10 dias",
+      "status": "CONCLUIDO"
+    },
+    {
+      "id": "2",
+      "nome": "10 coisas que eu odeio em você",
+      "status": "CONCLUIDO"
+    },
+    {
+      "id": "3",
+      "nome": "De volta ao futuro",
+      "status": "CONCLUIDO"
+    },
+    {
+      "nome": "De volta ao futuro 2",
+      "status": "NAO_INICIADO",
+      "id": "4"
+    },
+    {
+      "id": "5",
+      "nome": "De volta ao futuro 3",
+      "status": "NAO_INICIADO"
+    },
+    {
+      "id": "6",
+      "nome": "Mamma mia!",
+      "status": "CONCLUIDO"
+    },
+    {
+      "id": "7",
+      "nome": "Mamma mia! 2",
+      "status": "CONCLUIDO"
+    },
+    {
+      "id": "8",
+      "nome": "Jogos Vorazes",
+      "status": "CONCLUIDO"
+    },
+    {
+      "id": "9",
+      "nome": "Em chamas",
+      "status": "CONCLUIDO"
+    },
+    {
+      "id": "10",
+      "nome": " A esperança",
+      "status": "CONCLUIDO"
+    },
+    {
+      "id": "11",
+      "nome": "A esperança 2",
+      "status": "CONCLUIDO"
+    },
+    {
+      "id": "12",
+      "nome": "Barbie",
+      "status": "CONCLUIDO"
+    },
+    {
+      "id": "13",
+      "nome": "litte miss sunshine",
+      "status": "CONCLUIDO"
+    },
+    {
+      "id": "14",
+      "nome": "before sunrise ",
+      "status": "CONCLUIDO"
+    },
+    {
+      "id": "15",
+      "nome": "before sunset",
+      "status": "NAO_INICIADO"
+    },
+    {
+      "id": "16",
+      "nome": "before midnight ",
+      "status": "NAO_INICIADO"
+    },
+    {
+      "id": "17",
+      "nome": " sociedade da neve",
+      "status": "CONCLUIDO"
+    },
+    {
+      "id": "18",
+      "nome": "Enrolados",
+      "status": "CONCLUIDO"
+    },
+    {
+      "id": "19",
+      "nome": "Crepúsculo",
+      "status": "CONCLUIDO"
+    },
+    {
+      "id": "20",
+      "nome": "Lua nova",
+      "status": "CONCLUIDO"
+    },
+    {
+      "id": "21",
+      "nome": "Eclipse",
+      "status": "CONCLUIDO"
+    },
+    {
+      "id": "22",
+      "nome": "Amanhecer parte 1",
+      "status": "NAO_INICIADO"
+    },
+    {
+      "id": "23",
+      "nome": "Amanhecer parte 2",
+      "status": "NAO_INICIADO"
+    }
+  ]
+}
